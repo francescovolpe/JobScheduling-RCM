@@ -42,7 +42,7 @@ Vincoli: un operaio non può nello stesso giorno svolgere più attività contemp
   - 'G5_C0_010': '0002’,
 
 ### Apprendimento
-- scikit-learn
+- Scikit-learn & Pandas
 - Dataset: 1000 record (creato per testare l'algoritmo)
 - Colonne indicano le attività [1-14]
 - Colonna costo indica il costo effettivo
